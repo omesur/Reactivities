@@ -82,5 +82,3 @@ const ActivityForm: React.FC<IProps> = ({setEditMode, activity: initialFormState
           </Segment>
      )
 }
-
-export default ActivityForm
